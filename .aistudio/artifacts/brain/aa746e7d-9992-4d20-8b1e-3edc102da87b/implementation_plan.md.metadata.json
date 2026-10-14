@@ -1,0 +1,6 @@
+{
+  "summary": "Kompleksowy plan implementacji aplikacji Aurora Terminal (Termux-style) z wbudowaną powłoką Android, zdalnym klientem SSH z uwierzytelnianiem kluczami prywatnymi RSA, asystentem AI w trybach Zapytaj i Wykonuj (krok po kroku) oraz asystentem Live bez ingerencji w kod. Plan obejmuje architekturę systemu, bazę danych Room, motyw OLED Black z bursztynowym akcentem oraz integrację z modelami Gemini.",
+  "updatedAt": "2026-10-14T05:31:01.617630762Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
